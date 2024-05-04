@@ -1,0 +1,2 @@
+# AmartyaCode
+First Repository 
